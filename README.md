@@ -1,6 +1,4 @@
-# pinknetta README
-
-## Working with Markdown
+# pinknetta
 
 Hello friends!
 This is my custom pink theme for Visual Studio Code. 

@@ -15,6 +15,11 @@
         "label": "Pinknetta",
         "uiTheme": "vs-dark",
         "path": "./themes/Pinknetta-color-theme.json"
+      },
+      {
+        "label": "Light Contrast",
+        "uiTheme": "vs",
+        "path": "./themes/Pinknetta-light-dark-color-theme.json"
       }
     ]
   }
