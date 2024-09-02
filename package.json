@@ -1,6 +1,6 @@
 {
-  "name": "pinknetta",
-  "displayName": "pinknetta",
+  "name": "pinketta",
+  "displayName": "pinketta",
   "description": "My custom Vs Code theme in pink",
   "version": "0.0.1",
   "engines": {
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pinknetta",
+        "label": "Pinketta",
         "uiTheme": "vs",
         "path": "./themes/Pinknetta-color-theme.json"
       },
