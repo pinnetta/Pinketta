@@ -14,12 +14,12 @@
       {
         "label": "Pinketta",
         "uiTheme": "vs",
-        "path": "./themes/Pinknetta-color-theme.json"
+        "path": "./themes/Pinketta-color-theme.json"
       },
       {
         "label": "Pinketta High Contrast",
         "uiTheme": "vs-dark",
-        "path": "./themes/Pinknetta-high-contrast-color-theme.json"
+        "path": "./themes/Pinketta-high-contrast-color-theme.json"
       }
     ]
   }
