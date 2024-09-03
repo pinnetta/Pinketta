@@ -35,10 +35,10 @@ If you prefer to install the theme manually:
     From the list of available themes, you can choose between **Pinketta** and **Pinketta High Contrast**.
 
     Pinketta dark 
-   ![Main Theme Screenshot](https://github.com/pinnetta/Pinketta/blob/main/Pinketta/images/pinketta.png)
+   ![Main Theme Screenshot](https://github.com/pinnetta/Pinketta/blob/main/images/pinketta.png)
 
     Pinketta high contrast 
-   ![High contrast Screenshot](https://github.com/pinnetta/Pinketta/blob/main/Pinketta/images/pinketta-high-contrast.png)
+   ![High contrast Screenshot](https://github.com/pinnetta/Pinketta/blob/main/images/pinketta-high-contrast.png)
     
     Enjoy your new theme!
 
