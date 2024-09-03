@@ -3,6 +3,7 @@
   "displayName": "pinketta",
   "description": "My custom Vs Code theme in pink",
   "version": "0.0.1",
+  "publisher": "pinnetta",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -22,5 +23,9 @@
         "path": "./themes/Pinketta-high-contrast-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pinnetta/Pinketta"
   }
 }
