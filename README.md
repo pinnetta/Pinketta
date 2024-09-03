@@ -1,7 +1,7 @@
 
 # 🎨 Pinketta Theme for Visual Studio Code
 
-[icon](./images/icon.png)
+![icon](./images/icon.png)
 
 Hello friends!
 🌸🩷 Welcome to my custom pink Pinketta theme for VS Code! 🩷🌸
