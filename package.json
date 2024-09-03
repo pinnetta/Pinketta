@@ -2,7 +2,7 @@
   "name": "pinketta",
   "displayName": "pinketta",
   "description": "My custom Vs Code theme in pink",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "pinnetta",
   "engines": {
     "vscode": "^1.92.0"
