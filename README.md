@@ -1,8 +1,10 @@
 
 # 🎨 Pinketta Theme for Visual Studio Code
 
+[icon](./images/icon.png)
+
 Hello friends!
-Welcome to my custom pink Pinketta theme for VS Code! 🩷🌸
+🌸🩷 Welcome to my custom pink Pinketta theme for VS Code! 🩷🌸
 
 ## Installation
 
@@ -35,16 +37,16 @@ If you prefer to install the theme manually:
     From the list of available themes, you can choose between **Pinketta** and **Pinketta High Contrast**.
 
     Pinketta dark 
-!   [Main Theme Screenshot](./images/pinketta.png)
+   [Main Theme Screenshot](./images/pinketta.png)
 
     Pinketta high contrast 
-!   [High contrast Screenshot](./images/pinketta-high-contrast.png)
+   [High contrast Screenshot](./images/pinketta-high-contrast.png)
     
     Enjoy your new theme!
 
-**Contributing**
+### Contributing
 If you have suggestions or want to contribute to improving the theme, feel free to open an issue or submit a pull request on GitHub.
-Contact
+
 
 
 🩷
